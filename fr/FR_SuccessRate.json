@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "very-high",
+      "content": "Domination"
+    },
+    {
+      "id": "high",
+      "content": "Facile"
+    },
+    {
+      "id": "normal",
+      "content": "Neutre"
+    },
+    {
+      "id": "low",
+      "content": "Difficile"
+    },
+    {
+      "id": "very-low",
+      "content": "Sans espoir"
+    },
+    {
+      "id": "impossible",
+      "content": "Non-sélectable"
+    },
+    {
+      "id": "event-very-high",
+      "content": "Très élevé"
+    },
+    {
+      "id": "event-high",
+      "content": "Elevé"
+    },
+    {
+      "id": "event-normal",
+      "content": "Normal"
+    },
+    {
+      "id": "event-low",
+      "content": "Faible"
+    },
+    {
+      "id": "event-very-low",
+      "content": "Très faible"
+    },
+    {
+      "id": "event-impossible",
+      "content": "Non-sélectable"
+    }
+  ]
+}

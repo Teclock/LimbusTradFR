@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 36,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Je m'en occupe! Au nom de la justice, je mènerais la marche de la victoire!",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 37,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "N'ayez crainte. Je n'aurais aucun problème à le faire!",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 38,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Je peux le faire! Pour avancer, il faut bien que quelqu'un y mette l'effort nécessaire!",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 39,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "J'y mettrais tout mon cœur! Un héro doit savoir réaliser l'impossible!",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 40,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Continuer d'avancer malgré les dangers qui se trouvent au devant... Tel un vrai héro!",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 41,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Je ne me baignerais pas dans la gloire! Après tout, l'histoire s'en souviendra bien par elle-même!",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 42,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Un vrai héro doit savoir surmonter toutes les difficultés. Repartons à l'aventure, une fois de plus!",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    },
+    {
+      "id": 43,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Je m'en occupe! Au nom de la justice, je mènerais la marche de la victoire!",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 44,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "N'ayez crainte. Je n'aurais aucun problème à le faire!",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 45,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Je peux le faire! Pour avancer, il faut bien que quelqu'un y mette l'effort nécessaire!",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 46,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "J'y mettrais tout mon cœur! Un héro doit savoir réaliser l'impossible!",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 47,
+      "personalityid": 10302,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Continuer d'avancer malgré les dangers qui se trouvent au devant... Tel un vrai héro!",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 48,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Je ne me baignerais pas dans la gloire! Après tout, l'histoire s'en souviendra bien par elle-même!",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 49,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Un vrai héro doit savoir surmonter toutes les difficultés. Repartons à l'aventure, une fois de plus!",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    },
+    {
+      "id": 50,
+      "personalityid": 10301,
+      "voicefile": 0,
+      "teller": "Don Quixote",
+      "dialog": "Un vrai héro doit savoir surmonter toutes les difficultés. Repartons à l'aventure, une fois de plus!",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    }
+  ]
+}
