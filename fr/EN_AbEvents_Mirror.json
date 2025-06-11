@@ -5,12 +5,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should go forth?",
+      "behaveDesc": "Qui prendra les devants ?",
       "successDesc": [
-        "The whirling spiral slows down,\nshowing forgiveness.\n\nReverence for a being of no significance\nis followed by a slight self-contempt.\n\nThe spiral descended out of sight in the meantime."
+        "La spirale tournoyante se calme,\nsemblant vous pardonner.\n\nCette révérence d'un être sans but\nest suivi d'un sentiment d'auto-satisfaction.\n\nPendant ce temps-là, la spirale a disparu de votre vue."
       ],
       "failureDesc": [
-        "Though you turned away, it keeps pulling you in.\nAs if drawn by a magnet,\nall eyes are pulled toward it.\n\nThe spiral has not forgiven.\nContempt for your hesitation to show the courage not to face it takes over.\n\nYou feel the encroaching spiral slowly dig its way in."
+        "Bien que vous vous êtes retournés, elle continue de vous attirer.\nTelle un aimant,\ntous les yeux se dirigent vers cette spirale.\n\nCette dernière n'a pas pardonné.\nHésitant à vous détourner d'elle, un sentiment de mépris vous envahit.\n\nVous sentez la spirale grandissante s'enfoncer lentement."
       ]
     },
     {
@@ -18,12 +18,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should go forth?",
+      "behaveDesc": "Qui prendra les devants ?",
       "successDesc": [
-        "We carefully walked into the dense fog.\nEerie howls surround us.\n\nIt was no longer possible to tell which way was forward.\nAll we could do was keep walking.\n\nThe fog cleared at one point,\nand a trinket of endless ashen flow awaited us.\n\nWe then realized it wasn’t fog we walked through."
+        "Nous avons prudemment marché au-travers de cette dense fumée.\nSoudain des bruits inquiétants nous encerclèrent.\n\nImpossible de savoir où était le nord.\nTout ce que nous avons pu faire était marcher.\n\nFinalement la fumée s'était éclaircie,\net un bijou d'un flot de cendres infinies nous attendait.\n\nNous avons ensuite réalisé qu'il ne provenait pas de la fumée au-travers de laquelle nous avons marché."
       ],
       "failureDesc": [
-        "We carefully walked into the dense fog.\nEerie howls surround us.\n\nIt was no longer possible to tell which way was forward.\nAll we could do was keep walking.\nAfter a while, even advancing began to feel terrifying.\n\nThe fog grows thicker.\nIt feels as though you will no longer be able to escape."
+        "Nous avons prudemment marché au-travers de cette dense fumée.\nSoudain des bruits inquiétants nous encerclèrent.\n\nImpossible de savoir où était le nord.\nTout ce que nous avons pu faire était marcher.\nAu bout d'un moment, le simple fait de marcher devenait terrifiant.\n\nLa fumée s'épaississait.\nC'est comme-ci vous ne pouviez plus vous en défaire."
       ]
     },
     {
@@ -31,12 +31,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should go forth?",
+      "behaveDesc": "Qui prendra les devants ?",
       "successDesc": [
-        "You stared into the eye-like things.\nYour piercing gaze met the song\nof endless despair and wailing sockets.\n\nYou then realized that it wasn’t fog you were facing.\nWhat you thought were its eyes and mouth\nall turned out to be tricks played by shadows.\n\nWhen you figured out that its howl was merely whistling wind,\nall of it vanished."
+        "Vous regardez ces choses ressemblant à des yeux.\nVotre regard percant rencontra la mélodie\nmêlant un désespoir infini et orbites hurlant.\n\nEnfin vous réalisez que vous ne faites pas face à de la fumée.\nCe que vous pensiez être des yeux et une bouche\nn'étaient que des farces jouées par des ombres.\n\nL'instant où vous avez mis au jour cette supercherie,\ntout avait déjà disparu."
       ],
       "failureDesc": [
-        "You stared into the eye-like things.\nIt returned the gaze, singing endless despair.\n\nJust as you felt that the figure seemed to have grown,\nwe were engulfed by the fog."
+        "Vous regardez ces choses ressemblant à des yeux.\nElles vous le retourne, chantant un désespoir infini.\n\nAu moment où il vous semble que la figure devenait plus imposante,\nvous étiez déjà engroufré dans la fumée."
       ]
     },
     {
@@ -44,12 +44,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Qui va le faire ?",
       "successDesc": [
-        "With each rope that’s untied, the wail grows louder.\n\nYou feel sympathy for the trapped being.\n\nUndoing the ropes, you begin to weep\nalong with their wailing.\n\nOne undone knot accompanies sorrow.\nOne undone knot accompanies lamentation.\n\nWhen the last is released,\nyou discover that there is no one inside.\n\nPerplexed, you examine the interior,\nand find a single, red-jeweled beetle."
+        "A chaque corde dénouée, le hurlement devient plus intense.\n\nVous compatissez pour cette chose piégée.\n\nEn dénouant plus de cordes, vous commencez à sangloter\naux côtés de ces hurlements.\n\nUn nœud défait s'accompagne de tristesse.\nUn nœud défait s'accompagne de regrets.\n\nLorsque le dernier a été défait,\nvous découvrez qu'il n'y a rien dedans.\n\nPerplexe, vous examinez l'intérieur,\net trouvez une unique coccinnelle rouge."
       ],
       "failureDesc": [
-        "With each rope that’s untied, the wail grows louder.\n\nThere’s more than one individual occupying the coffin.\nSeveral people are clinging to each other, all crying.\n\nThe coffin bursts open, letting them out."
+        "A chaque corde dénouée, le hurlement devient plus intense.\n\nIl y a plus d'une personne dans ce cercueil.\nPlusieurs personne se serrent les unes contre les autres, pleurant toutes.\n\nDe force, le cercueil s'ouvre ainsi, les laissant tous s'échapper."
       ]
     },
     {
@@ -57,12 +57,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Let’s just go back. Who should lead the way?",
+      "behaveDesc": "Rebroussons chemin. Qui mènera la marche ?",
       "successDesc": [
-        "The red arms wave in the air,\nas if pleading not to be left behind.\n\nBut, after another look,\nit also seems as if they’re thankful for being left as they are.\n\nThough the wailing hasn’t ceased,\nthe weeping seems to have softened, just a little."
+        "Les bras rouges s'agitent dans l'air,\ncomme s'ils ne voulaient pas être abandonnés.\n\nA deuxième vue,\nla chose semble être heureuse d'être laissée là, comme elle l'a toujours été.\n\nBien que le hurlement n'ait pas cessé,\nles sanglots semble s'être légèrement atténués."
       ],
       "failureDesc": [
-        "You disregard the chilling sensation and move on.\n\nHowever, that feeling would linger,\neven after a while of walking.\n\nAt one point, you stopped and turned around\nto find a hand.\n\nIt was attached to an unnaturally scrawny red arm.\n\nIt grabbed its speechless victim.\nA familiar note was added to the coffin’s wailing."
+        "Vous ignorez cette glacante sensation et continuez.\n\nCette sensation, même après avoir marché un peu,\nreste.\n\nA un moment vous vous stoppez, puis vous retournez\net trouvez une main.\n\nElle était attaché à un bras anormalement fin.\n\nElle avait attrapé sa victime, sans voix.\nQuelque chose de familier venait d'être ajouté aux gémissements du cercueil."
       ]
     },
     {
@@ -70,12 +70,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Qui va s'en occuper ?",
       "successDesc": [
-        "{0} picks up a knife from the ground and slides it across their hand.\n\nThe flesh splits open, and dark blood gushes out of the wound onto the coffin.\n\nRed fluid trickles along the bound rope...\n\nThe rattling coffin eventually comes to a slow stop, and the wailings fade."
+        "{0} attrape un couteau planté dans le sol et glisse la lame sur sa main.\n\nLa peau s'ouvre, laissant des tâches de sang aller de la main vers le cercueil.\n\nDu liquide rouge coule le long de la corde...\n\nLes coups provenant du cercueil ralentissent, et les gémissements s'arrêtent."
       ],
       "failureDesc": [
-        "{0} picks up a knife from the ground and slides it across their hand.\n\nThe flesh splits open, and dark blood gushes out of the wound onto the coffin.\n\nRed fluid trickles along the bound rope...\n\nThe coffin begins to shake. Something scratches at its walls.\n\nIt sounds as though something is stepping across the soil; the knot dances in the wind.\n\nA dessiccated arm emerges from the coffin and grabs onto {0}.\n\nYet, the undone knot and the dessiccated arm soon fades into nothingness like mirages."
+        "{0} attrape un couteau planté dans le sol et glisse la lame sur sa main.\n\nLa peau s'ouvre, laissant des tâches de sang aller de la main vers le cercueil.\n\nDu liquide rouge coule le long de la corde...\n\nLe cercueil commence à trembler. Quelque chose gratte ses murs.\n\nDes pas se font entendre; le nœud de la corde danse dans le vent.\n\nUn bras desséché surgit du cercueil et attrape {0}.\n\nL'instant suivant, le nœud et le bras desséché avaient déjà disparu, tels des mirages."
       ]
     },
     {
@@ -83,12 +83,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will give our answer?",
+      "behaveDesc": "Qui répondra ?",
       "successDesc": [
-        "“You kent that?”\n\nThe paper flapped in disbelief.\n\n“Well, if you really insist, knowing what’s coming…”\n\nIt took a step back, dousing itself with coffee.\nJust then, a paper soldier\nsuddenly rushed at you.\n\n“You shouldn’t underestimate paper’s integrity.”\n\nBefore you could respond to the peculiar voice,\nthe soldier attacked you."
+        "“Vous connaissez ça ?”\n\nLe papier se rabat, incrédule.\n\n“Et bien, si vous insistez, même en connaissance de cause…”\n\nIl recule d'un pas, se trempant dans le café.\nSoudain, un soldat de papier\nse met à vous courir dessus, sorti de nulle part.\n\n“Vous n'auriez pas du sous estimer la solidité du papier'.”\n\nAvant d'avoir pu répondre à cette étrange voix,\nle soldat vous attaque."
       ],
       "failureDesc": [
-        "“You sure you read it right?”\n\n“With a body like that, you can’t fulfill the contract written here!”\n\nThe paper sprayed coffee on the floor,\nspewing insults.\n\nBefore we could make any excuses,\nwe got kicked out."
+        "“Vous l'avez lu, n'est-ce pas ?”\n\n“Avec un tel corps, vous ne pouvez pas faire ce contrat !”\n\nLe papier renverse son café\nentre quelques insultes.\n\nAvant même d'avoir pu s'excuser,\nnous avons été expulsés."
       ]
     },
     {
@@ -96,12 +96,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will give our answer?",
+      "behaveDesc": "Qui répondra ?",
       "successDesc": [
-        "“‘Preciate it. You made the job easier.”\n\nThe paper soldiers nearby\nstart fighting each other.\n\nSometime later, the defeated soldiers’ bodies are torn,\nexploding into paper cranes.\n\nOne of the cranes crawls your way.\n\n“Take good care of that piece.”\n\nThe satisfied sheet of paper drenched itself in coffee."
+        "“J'apprécie. La tâche n'en sera que plus facile.”\n\nLes soldats de papier\nont presque commencé à se battre.\n\nQuelques temps après, certains soldats voient leurs corps déchirés,\nexplosant en origamis.\n\nL'un de ces derniers rampe jusqu'à vous.\n\n“Prenez bien soin de celui-là.”\n\nAinsi, la feuille de papier, satisfaite, s'immerge dans le café."
       ],
       "failureDesc": [
-        "“That your way of turning someone down?”\n\nAnnoyed, the paper crumpled.\n\n“There are basics to proper conversation.\nI don’t wish to speak with someone\nwho can’t respect those basics.”\n\nBefore we could make any excuses,\nwe got kicked out."
+        "“C'est votre manière de refuser quelque chose à quelqu'un?”\n\nFrustré, le papier se froisse.\n\n“Il y a des bases à l'art de la discussion.\nEt je ne veux pas parler à quelqu'un\nqui ne respecte pas ces bases.”\n\nAvant même d'avoir pu s'excuser,\nnous avons été expulsés."
       ]
     },
     {
@@ -109,12 +109,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Qui va le faire ?",
       "successDesc": [
-        "You removed the nails from the teddy bear.\n\nBloody pus pours out of the holes.\n\nOnce the plush had finished its copious exudation,\nonly a dark cavity remained within.\n\nIt is an empty void."
+        "Vous enlevez les clous de l'ours en peluche.\n\nDu pus sanglant s'échappe des trous.\n\nUne fois que la peluche eut fini d'exsuder,\nseule une cavité sombre restait.\n\nComplètement vide."
       ],
       "failureDesc": [
-        "The nails plunged into its chest were buried deep.\n\nNothing would budge even after several tugs and pulls.\nIt’s all firmly lodged in the cotton base.\n\nThe plush looks down at it\nas if nothing is happening.\n\nPerhaps it’s unable to feel pain."
+        "Les clous étaient profondemment plantés dans sa poitrine.\n\nMalgré de nombreuses tentatives rien ne voulait bouger.\nLes clous étaient bien logés dans le cotton de la peluche.\n\nLa peluche baissa le regard sur ces derniers\ncomme si de rien n'était.\n\nPeut être n'était-elle pas capable de ressentir la douleur."
       ]
     },
     {
@@ -122,12 +122,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Que va le faire ?",
       "successDesc": [
-        "You picked up the ring in its hand.\nIt remains perfectly still, maintaining its chant.\n\nThis statue won’t move,\nno matter what happens around it.\n\nThough it stays forever still,\nand the tone of its mantra remains consistent…\n\nYou knew one thing.\n\nIts chants are imbued with a curse."
+        "Vous ramassez l'anneau de sa main.\nContinuant son chant, elle reste parfaitement immobile.\n\nLa statue n'aurait pas bouger\nquoiqu'il se passe autour d'elle.\n\nAinsi, elle reste parfaitement immboile,\net le ton se sa mantra est parfaitement consistant…\n\nVous savez une chose.\n\nSes champs sont infusés d'une malédiction."
       ],
       "failureDesc": [
-        "You tried to pick up the ring in its hand.\nIts wrist suddenly spun in a circle.\n\nYou reach for the ring again,\nbut that wrist keeps moving, denying you.\n\nIt could be conveying that you are unworthy."
+        "Vous essayez de prendre l'anneau de sa main.\nSoudainement sa main se met à tourner en rond.\n\nVous essayez d'attraper l'anneau de plus belle,\nmais la statue vous en empêche.\n\nElle essaie probablement de vous faire comprendre que vous n'êtes pas digne."
       ]
     },
     {
@@ -135,12 +135,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Qui va le faire ?",
       "successDesc": [
-        "Its growl recedes.\n\nYou stroke it once more,\nand it closes its eyes, pleased.\n\nYou stroke it once more,\nand it settles on the ground, comforted.\n\nYou stroke it once more,\nand it shrinks to become a statue."
+        "Les grognements s'estompent.\n\nVous le caressez de nouveau,\net il ferme ses yeux, content.\n\nEncore une fois,\net il s'allonge par terre, confortable.\n\nUne dernière fois,\net il rapetisse pour n'être plus qu'une statue."
       ],
       "failureDesc": [
-        "When you reach out to pet it,\nit growls louder.\n\nWhen your finger touched its bristled fur,\nit jumped, yelping violently.\n\nYou try to approach it as it gives you a fierce glare,\nbut it runs off without turning back.\n\nWhat else should you have done?"
+        "Quand vous tendez votre main,\nles grognements repartent de plus belle.\n\nDès lors que vos doigts touchent son poil,\nil surtsaute, poussant des cris perçants.\n\nVous tentez de vous rapprocher malgré son regard féroce,\nmais il s'enfuit sans même se retourner.\n\nQu'auriez vous pu faire d'autre ?"
       ]
     },
     {
@@ -148,12 +148,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Que va le faire ?",
       "successDesc": [
-        "When you detached one,\na candle in the room suddenly began to burn.\n\nWith another detached,\nthe fire burns even brighter.\n\nThe wooden doll begins\nto tremble ever so slightly.\n\nIs it right to continue?\n\nIs this what it wishes for?"
+        "Vous en détachez un,\net aussitôt une bougie s'allume.\n\nVous en détachez une autre,\net le feu crépite de plus belle.\n\nLa poupée de bois\nse met à trembler légèrement.\n\nEst-ce la bonne chose à faire ?\n\nEst-ce donc ce qu'elle veut?"
       ],
       "failureDesc": [
-        "Nothing happened.\nThe doll would simply stand there, producing small noises.\n\nThe talismans in hand have turned into sticky blood,\nslipping between your fingers."
+        "Rien ne se passe.\nLa poupée reste immobile, faisant de légers bruits.\n\nLes talismans dans vos mains se sont transformés en sang\nglissant entre vos doigts."
       ]
     },
     {
@@ -161,12 +161,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should read it?",
+      "behaveDesc": "Qui va la lire ?",
       "successDesc": [
-        "It’s a tablet of unknown letters.\n\nWhile you’re unable to fully grasp it,\na few words stand out.\n\nJudgement…\nRetribution…\nPunishment…\n\nYou also see some combinations of words\nthat might have deadly consequences if you try to understand them.\n\nWhen you look back up, the scribe gives a short nod\nbefore soaring into the sky."
+        "Ce qui est inscrit sur la tablette est incompréhensible.\n\nune fois que vous commencez à les comprendre,\nquelques mots ressortent.\n\nJugement...\nRétribution…\nPunition…\n\nVous voyez des mots s'enchaîner\ndont en comprendre la combinaison pourraît être fatale.\n\nAinsi vous levez la tête, et le scribe hoche de la tête\navant de s'envoler."
       ],
       "failureDesc": [
-        "It’s a tablet of unknown letters.\n\nYou feel you might be able to understand it.\nIt just needs a little more effort.\n\nA little more… Just a little more…\n\nWhen you come to your senses, the being has disappeared.\nYou were left alone with the tablet in your hands."
+        "Ce qui est inscrit sur la tablette est incompréhensible.\n\nVous pensez être capable de comprendre ce qu'il y est inscrit.\nJuste un dernier petit effort.\n\nUn peu plus… Juste un tout petit peu plus…\n\nAprès avoir repris conscience, l'entité avait déjà disparu.\nSeuls restent alors vous, et la tablette dans vos mains."
       ]
     },
     {
@@ -174,12 +174,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Qui va le faire ?",
       "successDesc": [
-        "You pick a rose out of it.\n\nWith closer examination, you notice\nthat it has an intestinal texture.\n\nWhat is a flower-shaped organ for?"
+        "Vous en arrachez une rose.\n\nEn regardant de plus proche vous remarquez\nqu'elle a la texture d'un intestin.\n\nA quoi une fleur-organe pourrait bien servir ?"
       ],
       "failureDesc": [
-        "You pick a rose out of it.\n\nYour careless removal\nhas crushed the uniquely textured flower.\n\nThe sign shows no change."
+        "Vous en arrachez une rose.\n\nVotre imprudente cueillette\na complètement broyé cette fleur d'une texture unique.\n\nLe panneau de bouge pas d'un cil."
       ]
     },
     {
@@ -187,12 +187,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should do it?",
+      "behaveDesc": "Qui va le faire ?",
       "successDesc": [
-        "You contain some of the slime in a glass jar.\n\nThis isn’t simply a mass of filth.\n\nNumerous hatchlings swim inside.\n\nThese tiny creatures are feeding on each other;\ncould they be the clam’s offspring?"
+        "Vous enfermez une partie du slime dans un bocal en verre.\n\nCe n'est pas qu'une simple masse crasseuse.\n\nPlusieurs bébé nagent dedans.\n\nCes créatures se nourrisent entre elles;\nsont-elles les rejetons de cette palourde ?"
       ],
       "failureDesc": [
-        "You approach with a glass jar in hand.\n\nHowever, hesitation takes hold, and you eventually turn around.\n\nYou couldn’t stand the thought\nof reaching out to contain that filth.\n\nIn fact, you get the feeling that it’s something you mustn’t hold."
+        "Vous approchez la masse, bocal en main.\n\nCependant, l'hésitation vous enhavit, et vous lui tournez les talons.\n\nVous ne pouvez même pas concenvoir le fait\nde vous approcher pour contenir cette crasse.\n\nVous pensez même qu'il s'agit de quelque chose dont il ne faut pas s'approcher."
       ]
     },
     {
@@ -200,13 +200,13 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should be sent?",
+      "behaveDesc": "Qui sera envoyé ?",
       "successDesc": [
-        "As you head for the giant flower,\nthe smaller ones make way.\n\nThey close up their petals as you pass,\nas if to bow down in respect.\n\nOnce you arrived at the end,\nthe giant flower drooped low to offer a present."
+        "Alors que vous vous avancez vers la grande fleur,\nla plus petite s'écarte.\n\nLeurs pétales se ferment alors que vous passez,\ntel une marque de respect.\n\nUne fois arrivé, vous levez la tête,\nla fleur géante se baisse pour vous donner un cadeau."
       ],
       "failureDesc": [
-        "You head for the giant flower.\n\nThe small blooming ones scuttle and shuffle.\n\nThey seem to be staring from all directions.\nYou feel like you might get lost.\n\nLooking back up,\nthe giant flower still waves to you.",
-        "You couldn’t approach the flower no matter what you tried.\n\nAll you could do was gaze at it from a distance.\n\nA sudden wave of nostalgia prompts you to wave.\n\nIn an instant, all the flowers went awash with red,\nsimultaneously turning to face you.\n\nAfter staring into us for a little while,\ntheir red petals flew at us.\n\nIt was like a punishment for making a half-hearted gesture."
+        "Vous vous avancez vers la fleur géante.\n\nles petites bourgeonantes courent dans tous les sens.\n\nElle semblent vous regarder de toutes les directions.\nVous avez l'impression de vous êtes perdus.\n\nVous levez la tête,\net la fleur géante continue de vous saluer.",
+        "Malgré tous vos efforts, impossible d'approcher cette fleur.\n\nVous êtes seulement capables de la regarder de loin.\n\nSoudainement nostalgique, vous vous forcez à la saluer.\n\nD'un coup, toutes les fleurs rougissent,\nse tournant en unisson pour vous faire face.\n\nElles vous fixe du regard un peu plus longtemps,\net soudainement leurs pétales rouges s'envolent vers vous.\n\nUne punition pour un geste aussi peu enthousiaste, sans doute."
       ]
     },
     {
@@ -214,12 +214,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "What will you do?",
+      "behaveDesc": "Qu'allez-vous faire ?",
       "successDesc": [
-        "As soon as it’s shown where to go,\nit runs in that direction.\n\nYou notice it dropped something as it began to sprint.\n\nA blue lighter with a Wing’s logo on it.\n\nYou heard stories of that Wing\nproviding its employees with supplies like this.\n\nIt would seem that it was an employee of the transport company, not a passenger."
+        "Dès qu'il a su où aller,\nil a commencé à courir dans une direction.\n\nVous remarquez qu'il a laissé tomber quelque chose pendant sa course.\n\nUn briquet bleu avec le logo d'une Aile inscrit dessus.\n\nVous avez déjà entendu des histoires de cette Aile,\nqui peuvent parfois donner de telles choses à leurs employés.\n\nIl semnlerait que c'était un ancien employé de cette entreprise de transports, pas un simple passager."
       ],
       "failureDesc": [
-        "While you were in contemplation,\nit slowly shambled your way.\n\nWhen you point in a random direction out of panic,\nit changes course to follow the instruction.\n\nMoments later,\nyou heard the noise of metal plates crumpling, and something else ripping apart."
+        "En pleine réflexion,\nil s'approchait lentement de vous.\n\nLorsque, de panique, vous lui pointez du doigt une direction aléatoire\nil commenca à suivre l'instruction.\n\nQuelques instants plus tard,\nvous entendez des bruits de métal se froisser, et quelque chose d'autre se déchirer."
       ]
     },
     {
@@ -227,12 +227,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should go forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "{0} takes a few steps, and the passenger follows.\n\nAs we draw closer to what appears to be an exit, the passenger bows down as though to show us gratitude.\n\nWe heard something fall; it left behind what appears to be a patrol flashlight.\n\nLooks like it wasn't lost after all. It may have been an employee of a transport company that happened to be patrolling the area.\n\nMaybe we didn't guide it—maybe it was merely following us to make sure that we found the right exit."
+        "{0} avance de quelques pas, et le passager suit.\n\nLorsque finalement vous arrivez à ce qui vous semble être une sortie, le passager vous tire une révérence en signe de gratitude.\n\nVous entendez quelque chose tomber; il avait laissé derrière lui une lampe tactique`.\n\nIl n'était pas si perdu que ça enfin de compte. C'était peut être un employé d'une companie de transport qui patrouillait dans la zone.\n\nPeut être ne l'avez-vous pas guidé—peut être qu'il vous suivait dans le seul but de s'assurer que vous avez trouvé la sortie."
       ],
       "failureDesc": [
-        "{0} takes a few steps, and the passenger follows.\n\nAfter a while, {0} accidentally leads us back to where we started.\n\nThe passenger stands there, somewhat confused and awkwardly waving its arms, before striding forth and beckoning us to follow.\n\nIt led us to the exit."
+        "{0} avance de quelques pas, et le passager suit.\n\nAprès un instant, {0} vous a accidentellement ramené à votre point de départ.\n\nLe passager reste ici, l'air confus et bougeant étrangement les bras, avant de vous passer devant et de vous faire signe de le suivre.\n\nIl vous indique la sortie."
       ]
     },
     {
@@ -240,12 +240,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "What will you do?",
+      "behaveDesc": "Qu'allez-vous faire ?",
       "successDesc": [
-        "You quickly ducked out of its path.\n\nAmong the onslaught of the obsessively encroaching hands is a particularly small hand.\n\nYou reach out and pull on that hand. The statue ceases to move.\n\nIn your hands is an unforeseen, symmetrical figurine."
+        "Vous vous écartez rapidement de son chemin.\n\nAu milieu de l'assault des mains envahissantes se trouve une main particulièrement petite.\n\nVous tendez le bras pour l'attraper. La statue cesse de bouger.\n\nDans vos mains se trouve désormais une statuette."
       ],
       "failureDesc": [
-        "You quickly ducked out of its path.\n\nHowever, it was no easy task\nto avoid its obsessive hands.\n\nA few of them managed to grab and scratch at us.\n\nThough we managed to escape, we suffered a lot."
+        "Vous vous écartez rapidement de son chemin.\n\nEviter toutes ces mains n'est\ncependant pas chose facile.\n\nQuelques unes réussissent à vous attraper et/ou à vous écorcher.\n\nVous ne vous en sortez pas sans séquelles."
       ]
     },
     {
@@ -253,12 +253,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "What will you do?",
+      "behaveDesc": "Qu'allez-vous faire ?",
       "successDesc": [
-        "It lifts a nearby object\nto carry it from left to right.\n\nThe count on its body went up by 1.\n\nJust as you started to wonder if that was it,\nthe machine replaced one of its vacuum tubes with a new one.\n\nIt presented the old one to you,\nand naturally, you accepted."
+        "Elle soulève un objet proche\nle balancant de gauche à droite.\n\nLe compteur sur son corps augmente de 1.\n\nAlors que vous vous demandez si c'était fini,\nla machine remplace l'un de ses tubes à vide par un nouveau.\n\nElle vous offre aussitôt l'ancien tube,\net bien sûr, vous l'acceptez."
       ],
       "failureDesc": [
-        "It lifts a nearby object\nto carry it from right to left.\n\nWhile it was moving the object,\nit suddenly came to a halt.\n\nThe vacuum tubes in its body suddenly flicker.\n\nAfter flashing random letters and numbers,\neverything shut off.\n\nWith its power gone, the object slipped from its hands and fell.\n…A few of us were standing in the impact zone."
+        "Elle soulève un objet proche\nle balancant de gauche à droite.\n\nSoudainement, elle s'arrête net,\nen plein mouvement.\n\nLes lampes sur son corps commencent ensuite à clignoter.\n\nAprès avoir flashé quelques chiffres et lettres,\ntout s'éteint.\n\nL'objet qu'elle tenait glisse alors de ses mains et tombe.\n...Quelques uns d'entre vous se trouvant dans la zone d'impact."
       ]
     },
     {
@@ -266,12 +266,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "What will you do?",
+      "behaveDesc": "Qu'allez-vous faire ?",
       "successDesc": [
-        "“Apply stimulation and pain to the centipede\nto increase the discharge intensity.”\n\nSo writes a message above the buttons.\n\nWhen you pressed the drop-shaped button, the tank was filled with water.\n\nThe centipede twists its body as if in some sort of dance.\n\nIt didn’t seem to be out of joy."
+        "“Stimulation et douleur\npermettront d'augmenter la puissance de la décharge.”\n\nC'est ce qu'il est écrit au-dessus de l'un des boutons.\n\nAinsi vous appuyez sur le bouton en forme de goutte, et la cuve se remplit d'eau.\n\nLe centipède tort alors son corps, comme s'il dansait.\n\nIl n'a pas l'air d'apprécier."
       ],
       "failureDesc": [
-        "“Apply stimulation and pain to the centipede\nto increase the discharge intensity.”\n\nSo writes a message above the buttons.\n\nWhen you pressed the drop-shaped button, the tank was filled with water.\n\nThe centipede twists its body as if in some sort of dance.\n\nYou watched the centipede’s tail scratch the tank’s surface. \nThe glass cracked and shattered to pieces immediately afterward.\n\nThe electrified water cascaded all over us."
+        "“Stimulation et douleur\npermettront d'augmenter la puissance de la décharge.”\n\nC'est ce qu'il est écrit au-dessus de l'un des boutons.\n\nAinsi vous appuyez sur le bouton en forme de goutte, et la cuve se remplit d'eau.\n\nLe centipède tort alors son corps, comme s'il dansait.\n\nVous regardez le centipède rayer la surface de la cuve. \nLa vitre se craquèle et l'instant d'après se brise.\n\nUn torrent d'eau électrifiée vous arrive dessus."
       ]
     },
     {
@@ -279,12 +279,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "\"Aha, good! Here, have a drink.\"\n\nIt feels as though a hard, burning liquid is rampaging around the body.\n\n\"Mmm, I like the way you drink it!\"\n\nA steadily floating sensation is followed by the feeling that you're in better shape somehow.\n\n\"Feeling the magic at work? This is what we call medicinal booze! Go on then, go for another shot!\"\n\nAfter a few more shots of the liquor, we left the place with gleeful steps."
+        "\"Ah bien ! Tenez, prenez un verre.\"\n\nVous sentez un liquide brûlant et épais se déchaîner dans votre corps.\n\n\"Ah, j'aime votre manière de boire !\"\n\nMalgré cette sensation latente de flottement, vous sentez que vous serez en meilleure forme demain.\n\n\"'sentez la magie ? Ca c'est ce qu'on appelle de l'alcool médicinal ! Allez, vous prendez bien un autre shot !\"\n\nAprès quelques autres verres de la liqueur, vous partez la tête légère."
       ],
       "failureDesc": [
-        "\"Aha, good! Here, have a drink.\"\n\nIt feels as though a hard, burning liquid is rampaging around the body.\n\n\"Hey... You alright?\"\n\nA sudden nausea is followed by the view slowly turning to the right.\n\n\"A real shame... It's such a good drink... but I guess your body doesn't agree with it. You should stop drinking it.\"\n\nTrying to hold the eyes and head that were starting to spin faster, we left in a hurry.\n\nThe way out might have been accompanied by bumps and slams into walls, but even that blurred out of memory."
+        "\"Ah bien ! Tenez, prenez un verre.\"\n\nVous sentez un liquide brûlant et épais se déchaîner dans votre corps.\n\n\"Eh... Ca va ?\"\n\nUne nausée soudaine s'installe, et votre vue vire vers le droite.\n\n\"Malheur... Une si bonne boisson... J'imagine que votre corps ne l'a tout simplement pas accepté. Vous devriez arrêter de boire.\"\n\nTentant en vain de rester debout, vous partez en vitesse.\n\nEn fuyant, vous vous êtes certaintement tapé contre des murs, mais tout ceci ne fait plus partie de vos souvenirs."
       ]
     },
     {
@@ -292,12 +292,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "\"Oho! Then here, have a drink.\"\n\n{0} began chugging the strong liquor.\nIt's uncertain whether {0} really likes to drink, or is simply trying to indulge the entity.\n\n\"Hot damn, looks like the hooch's finally found its match!\"\n\"Y'know what's better than neckin' the whole bottle?\"\n\nSomething chucks a huge barrel of liquor toward us from beyond the thick miasma of steam.\nWe barely managed to catch the barrel. A lively voice booms in our direction.\n\n\"A keg stand!\""
+        "\"Hoho ! Dans ce cas, prenez un verre.\"\n\n{0} boit d'un trait la puissante liqueur.\nVous ne savez pas si {0} adore boire, ou si {0} essaie de faire plaisir à l'entité.\n\n\"Eh beh, 'semblerait que cette gnôle ait trouvé un amateur !\"\n\"'savez c'qu'y'a de mieux que d's'enfiler une bouteille entière ?\"\n\nQuelque chose vous lance un énorme baril de liqueur depuis l'épais miasme.\nVous arrivez à peine à l'esquiver. Une grosse voix hurle dans votre direction.\n\n\"Le poirier sur un fût !\""
       ],
       "failureDesc": [
-        "\"Oho! Then here, have a drink.\"\n\n{0} began chugging the strong liquor.\nIt's uncertain whether {0} really likes to drink, or is simply trying to indulge the entity.\n\n\"Hot damn, looks like the hooch's finally found its match!\"\n\"Y'know what's better than neckin' the whole bottle?\"\n\nSomething chucks a huge barrel of liquor toward us from beyond the steam.\nThe abruptness of that aggressive throw completely caught us off guard; without a soft landing spot, the barrel shatters against the ground.\n\n\"A keg sta— Aw, what the heck! Y'know how precious that barrel was?!\"\n\"Bah! At least take the barrel splinters with you. It's got a pretty strong, top-notch aroma of its own.\""
+        "\"Hoho ! Dans ce cas, prenez un verre.\"\n\n{0} boit d'un trait la puissante liqueur.\nVous ne savez pas si {0} adore boire, ou si {0} essaie de faire plaisir à l'entité.\n\n\"Eh beh, 'semblerait que cette gnôle ait trouvé un amateur !\"\n\"'savez c'qu'y'a de mieux que d's'enfiler une bouteille entière ?\"\n\nQuelque chose vous lance un énorme baril depuis la fumée.\nCe jet brusque vous a complètement pris par surprise; sans endroit ou tomber correctement, le baril se brise a vos côtés.\n\n\"Le poirier s- Oh, mais merde quoi ! 'Savez à quel point ce baril m'était cher ?!\"\n\"Meh, au moins emportez ce qu'il reste. Ca reste une boisson avec un fort mais super goût.\""
       ]
     },
     {
@@ -305,12 +305,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will lift the skull?",
+      "behaveDesc": "Qui soulèvera le crâne ?",
       "successDesc": [
-        "The laughing skull was lifted.\n\nElated for whatever reason, it keeps clattering its teeth and wobbling on the hands.\n\nAll of a sudden, you feel your body getting lighter.\n\nLooking around, you notice that everyone seems to be experiencing the same thing.\n\nWhen you looked back at the hands, the skull disappeared before you could notice."
+        "{0} soulève le crâne.\n\nPris d'un fou rire, le crâne continue de claquer des dents et de trembler dans les mains.\n\nUn instant plus tard et votre corps semble plus léger.\n\nEn regardant autour de vous, vous remarquez que tout le monde semble être affecté.\n\nVous regardez vos mains, et apercevez que le crâne a déjà disparu."
       ],
       "failureDesc": [
-        "The laughing skull was lifted.\n\nStrangely enough, the skull's expression suddenly turned blank as soon as it was held.\n\nWondering what might be the problem, the Sinner moved their head closer to the skull, and...\n\n\"?!\"\n\nThe skull opened its jaws wide and bit {0} before disappearing."
+        "{0} soulève le crâne.\n\nEtrangement, le visage du crâne arbore une expression neutre le moment où il quitte le sol.\n\nSe demandant d'où vient le problème, la Pêcheur approche sa tête de celle du crâne et...\n\n\"?!\"\n\nLe crâne ouvre grand la bouche devant {0} avant de disparaître."
       ]
     },
     {
@@ -318,12 +318,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will lift the skull?",
+      "behaveDesc": "Qui soulèvera le crâne ?",
       "successDesc": [
-        "The angry-looking skull was lifted.\n\nUpset for whatever reason, it clattered its teeth as if it was trying to bite something in the air.\n\nAll of a sudden, the hands felt lighter.\n\n\"Is this...\"\n\nThe skull vanished into thin air, and a glowing object was left on the hands."
+        "{0} soulève le crâne colérique.\n\nPour une quelconque raison, il claque des dents, comme s'il essayait de mordre quelque chose.\n\nD'un coup, vos mains semblent plus légères.\n\n\"Est-ce que...\"\n\nLa crâne avait déjà disparu, laissant dans vos mains un petit brillant objet."
       ],
       "failureDesc": [
-        "The angry-looking skull was lifted.\n\nStrangely enough, the skull's expression suddenly turned blank as soon as it was held.\n\nWondering what might be the problem, the Sinner moved their head closer to the skull, and...\n\n\"?!\"\n\nThe skull opened its jaws wide and bit {0} before disappearing."
+        "{0} soulève le crâne colérique.\n\nEtrangement, le visage du crâne arbore une expression neutre le moment où il quitte le sol.\n\nSe demandant d'où vient le problème, la Pêcheur approche sa tête de celle du crâne et...\n\n\"?!\"\n\nLe crâne ouvre grand la bouche devant {0} avant de disparaître."
       ]
     },
     {
@@ -333,10 +333,10 @@
       "prevDesc": "",
       "behaveDesc": "Who will lift the skull?",
       "successDesc": [
-        "The skull with a bizarre expression was lifted.\n\nAs if driven crazy, it rolled around and clattered its teeth without any rhyme or reason to it.\n\nJust as you started to be unsure of what to do with it, the hands felt lighter, so you looked down...\n\nAnd found that it turned into a tiny trinket."
+        "{0} soulève le crâne bizarre.\n\nPris d'une folie, il roule sur lui-même et claque des dents sans raison.\n\nAu moment où vous vous demandez ce que vous allez bien pouvoir en faire, vos mains semblent plus légères, et en baissant le regard...\n\nle crâne s'était transformé en babiolle."
       ],
       "failureDesc": [
-        "The skull with a bizarre expression was lifted.\n\nStrangely enough, the skull's expression suddenly turned blank as soon as it was held.\n\nWondering what might be the problem, the Sinner moved their head closer to the skull, and...\n\n\"?!\"\n\nThe skull opened its jaws wide and bit {0} before disappearing."
+        "{0} soulève le crâne bizarre.\n\nEtrangement, le visage du crâne arbore une expression neutre le moment où il quitte le sol.\n\nSe demandant d'où vient le problème, la Pêcheur approche sa tête de celle du crâne et...\n\n\"?!\"\n\nLe crâne ouvre grand la bouche avant{0} avant de disparaître."
       ]
     },
     {
@@ -344,12 +344,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will comfort it?",
+      "behaveDesc": "Qui la réconfortera ?",
       "successDesc": [
-        "\"How do I comfort a droplet...\"\n\nAs odd as the order sounds, the Sinner does their best to lift its spirits.\n\nThe droplet seems to have perked up thanks to the Sinner's efforts.\n\n\"I could be free thanks to you.\"\n\nIt feels as though the droplet said something like that.\n\nSoon enough, the droplet disappeared from view, and an object that looked like a big glass container was left in its place."
+        "\"Comment je fais pour réconforter une goutte...\"\n\nAussi bizarre que ça puisse paraître, le Pêcheur fait de son mieux pour lui remonter le moral.\n\nGrâce au Pêcheur, la goutellette semble aller mieux.\n\n\"Je pourrais être libre grâce à vous.\"\n\nElle a dû dire quelque chose comme ça.\n\nAussitôt, la goutelette avait disparu, et à la place se trouve maintenant une espèce de gros bocal."
       ],
       "failureDesc": [
-        "\"How do I comfort a droplet...\"\n\nAs odd as the order sounds, the Sinner does their best to lift its spirits.\n\nAlas... it didn't seem to help the droplet shake off its gloomy mood.\n\n\"Thanks anyways, this is for your trouble.\"\n\nIt feels as though the droplet said something like that.\n\nThe droplet handed us half of itself, and disappeared in the blink of an eye.\n\nSeeing as the Sinners are saying they're feeling refreshed, its half must have been a gift."
+        "\"Comment je fais pour réconforter une goutte...\"\n\nAussi bizarre que ça puisse paraître, le Pêcheur fait de son mieux pour lui remonter le moral\n\nHélas... Ca n'a pas l'air d'avoir aidé la goutte, qui est toujours triste.\n\n\"Merci quand même, voici pour le dérangement...\"\n\nElle a dû dire quelque chose comme ça.\n\nLa goutte nous donne la moitié d'elle-même avant de disparaître en un clin d'œil.\n\nLes Pêcheurs se sentant de nouveau prêts font penser que sa moitié devait être un cadeau de sa part."
       ]
     },
     {
@@ -357,12 +357,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will put it back?",
+      "behaveDesc": "Qui la remttra à sa place ?",
       "successDesc": [
-        "It's only right to put it back where it belongs.\n\nThe droplet is lifted and pushed into the giant glass container.\n\nAnd we watched.\n\nWe watched the face of the droplet being filled with terror, contempt, anger, and loathing as it slid down the tube.\n\n\"You shouldn't have done that.\"\n\n\"We might have looked like one in your eyes. But to me, this is hell.\"\n\nIt felt like it told us such things.\n\nAlong with the glass container, we could hear something within our hearts crack."
+        "La seule bonne chose à faire est de la remettre à sa place.\n\nLa goutte se laisse porter et vous la poussez dans le bocal.\n\nVous observez.\n\nVous regardez son visage s'emplir de terreur, de mépris, de colère, et de dégoût le moment où elle glisse dans le bocal.\n\n\"Vous n'auriez probablement pas dû faire ça.\"\n\n\"Pour vous, nous y ressemblons probablement. Mais pour moi, c'est l'enfer\"\n\nC'est ce que la goutte semble dire\n\nTel le bocal qui se fissure, vous sentez quelque chose se briser en vous."
       ],
       "failureDesc": [
-        "It's only right to put it back where it belongs.\n\nThe droplet is lifted and pushed into the giant glass container.\n\nAnd we watched.\n\nWe watched the face of the droplet being filled with terror, contempt, anger, and loathing as it slid down the tube.\n\n\"...Ahh!\"\n\nWhile we were distracted by the face, the droplet bounced off and slid out of view.\n\n...Maybe it was something we shouldn't have done."
+        "La seule bonne chose à faire est de la remettre à sa place.\n\nLa goutte se laisse porter et vous la poussez dans le bocal.\n\nVous observez.\n\nVous regardez son visage s'emplir de terreur, de mépris, de colère, et de dégoût le moment où elle glisse dans le bocal.\n\n\"...Ahh!\"\n\nDistraits par le visage de la goutte, vous n'avez pas remarqué que la goutte avait sauté hors du bocal.\n\n...Peut être n'était-ce pas la bonne chose à faire."
       ]
     },
     {
@@ -370,12 +370,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will give the answer?",
+      "behaveDesc": "Qui répondra ?",
       "successDesc": [
-        "We told the person that the things in their hands are just blue marbles.\n\n\"Is that so. That's how you see them.\"\n\nThe person remained tranquil as if they knew you'd tell them that.\n\n\"If you want to look at them that way, then I say go ahead.\"\n\nThey disappeared, gently waving the marbles.\n\nIt feels like we've learned an important truth."
+        "Vous dîtes à la personne qu'elle tient simplement des billes bleues dans ses mains.\n\n\"C'est donc comme ça que vous le voyez.\"\n\nC'est comme si la personne savait que vous alliez dire une telle chose.\n\n\"J'ai envie de vous dire, si c'est comme ça que vous le voyez... Pas de problème.\"\n\nElle disparait, laissant flotter les billes.\n\nIl semblerait que vous ayez appris quelque chose d'important."
       ],
       "failureDesc": [
-        "We told the person that the things in their hands are just blue marbles.\n\n\"You sound pretty confident. Do you know what a star is in the first place?\"\n\n\"Speckles of light floating in the dark. That's what we call stars.\"\n\nThey gently wave the marbles in their hands.\n\n\"Stars are what's in your mind. So these blue marbles are stars.\"\n\nAs the upright manner of speech was about to be etched on the heart, they disappeared, telling us they'll 'go to the blue star'.\n\nIt feels like we've learned an important truth."
+        "Vous dîtes à la personne qu'elle tient simplement des billes bleues dans ses mains.\n\n\"Vous semblez plutôt confiant. avant tout, savez-vous ce qu'est une étoile ?\"\n\n\"Ces tâches de lumières flottant dans le noir. Ce sont ça, des étoiles.\"\n\nLa créature fait doucement rouler les billes.\n\n\"Les étoiles représentent ce qu'il y a dans votre esprit. Donc ces billes bleues sont des étoiles.\"\n\nAlors que la bonne manière de les décrire allaient être gravés dans votre cœur, les figure disapraît, disant qu'elle va 'vers l'étoile bleue'.\n\nIl semblerait que vous ayez appris quelque chose d'important."
       ]
     },
     {
@@ -385,10 +385,10 @@
       "prevDesc": "",
       "behaveDesc": "",
       "successDesc": [
-        "Seeing the numerous hues of light in them, they ought to be stars for sure.\n\n\"I want to return to the blue star someday.\"\n\nCould that be where they come from? Will I be able to go there?\n\n\"Do you think so too? That you want to return to that place.\"\n\nYou nod. You have no idea where it may be, and you certainly aren't from it, but you feel the urge to go back to it.\n\n\"Then I'll give this to you.\"\n\nThey handed over a blue star they were holding and disappeared."
+        "En voyant toutes les reflets de lumière différents, vous vous dites qu'il s'agit forcémment d'étoiles.\n\n\"J'aimerais un jour rejoindre l'étoile bleue.\"\n\nViennent-ils de là-bas ? Aurez-vous un jour la possibilité d'y aller ?\n\n\"Vous aussi ? Vous voulez la rejoindre.\"\n\nVous acquiescez. Vous n'avez aucune idée de ce que c'est, et vous ne venez pas de là-bas, mais vous avez cette envie irrépressible d'y aller aussi.\n\n\"Je vais vous donner ça.\"\n\nElle vous donne l'une des étoiles bleues qu'elle tenait et disparait."
       ],
       "failureDesc": [
-        "Seeing the numerous hues of light in them, they ought to be stars for sure.\n\n\"Right, but...\"\n\nTheir tone suddenly changes to a melancholic one.\n\n\"I know. That I can't go back to it anymore.\"\n\n\"That I'm just waving my arms and emitting the blue glow to become a star myself.\"\n\nWith a whistling noise, it vanished into thin air.\n\nOur heads somehow felt lighter after this."
+        "En voyant toutes les reflets de lumière différents, vous vous dites qu'il s'agit forcémment d'étoiles.\n\n\"Oui mais...\"\n\nVous la voyez devenir plutot mélancholique.\n\n\"Je sais. Que je ne pourrais jamais y retourner.\"\n\n\"Je sais, que je bouge mes bras pour emettre cette lumière bleue, espérant un jour devenir moi-meme une étoile.\"\n\nAccompagnée d'un sifflement, elle disparaît.\n\nVous vous sentez d'un coup bien plus léger."
       ]
     },
     {
@@ -396,12 +396,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will take it off?",
+      "behaveDesc": "Qui l'enlèvera ?",
       "successDesc": [
-        "It was focused on its prayers.\n\nDoing your best to ignore the rotting stench, you manage to take a prayer book off its body.\n\nIt's so deeply immersed that it doesn't notice us approach it and take the booklet at all.\n\nPerhaps its faith was too deep for prayer books to hold any meaning.\n\nWhatever beliefs and doctrines it follows, they would already be firmly rooted in its mind and heart."
+        "Il est concentré sur ses prières.\n\nFaisant de votre mieux pour ignorer cette puanteur, vous arrivez à en extraire un livre de prière.\n\nIl était tellement plongé dans ses prières qu'il n'a même pas remarqué que vous aviez pris le livre.\n\nPeut être était-il trop pieux pour avoir besoin d'un livre.\n\nQuelque soit les doctrines ou les pensées qu'il suit, elles sont encrées depuis bien longtemps dans son corps et dans son esprit."
       ],
       "failureDesc": [
-        "It was focused on its prayers.\n\nDoing your best to ignore the rotting stench, you manage to take a prayer book off its body.\n\n\"Gieeegh?!\"\n\nWas our attempt noticed? As soon as the booklet was removed, an unpleasant noise bursts out.\n\nWe braced ourselves for possible attacks, but it didn't seem to care about us.\n\nIt scraped the ground with its mandible, writing something down.\n\n...It seemed to be the content of the prayer book."
+        "Il est concentré sur ses prières.\n\nFaisant de votre mieux pour ignorer cette puanteur, vous arrivez à en extraire un livre de prière.\n\n\"Heeeeiiin?!\"\n\nAvez-vous été repéré? Dès que vous commencez à retirer le livre, un son déplaisant se fait entendre.\n\nWe braced ourselves for possible attacks, but it didn't seem to care about us.\n\nIt scraped the ground with its mandible, writing something down.\n\n...It seemed to be the content of the prayer book."
       ]
     },
     {

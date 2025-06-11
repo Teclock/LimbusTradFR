@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": 97104301,
+      "title": "Nous sommes les 'échantillions'.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui s'avancera ?",
+      "successDesc": [
+        "\"Hoho, voilà une réaction pour le moins intéressante. PLutôt bon taux de synchronisation, qui plus est.\"\n\nPeut être que le chercheur a aimé ce qu'il vient de voir ?\n\nAprès avoir noté ses observations, le chercheur laisse {0} partir.\n\n{0} enleva l'équipement et le présenta aux chercheur pour qu'il le repose, cependant ce dernier fit 'non' de la tête en guise de réponse.\n\n\"Il à l'air de vous aller comme un gant. Prenez-le avec vous.\""
+      ],
+      "failureDesc": [
+        "\"Hmmm, vous ne pouvez pas supporter toute cette pression n'est-ce pas ? Peut-être n'était-ce pas fait pour vous, après tout.\"\n\nLe chercheur fronce les sourcils, clairement mécontent du résultat.\n\n{0} fait de même, mais à cause de la douleur.\n\n\"Et bien, peut-être vous faut-il simplement du temps pour vous y acclimater. Prenez-le avec vous, et habituez-vous-y.\"\n\n\"Si jamais vous n'y parvenez pas, rapportez-le moi.\""
+      ]
+    },
+    {
+      "id": 97104401,
+      "title": "Mangez-le.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui s'avancera ?",
+      "successDesc": [
+        "La visage de {0} s'illumine de surprise dès qu'il/elle boit une gorgée de la potion du chercheur.\n\nLa potion semble avoir énormément soulagé {0}—à tel point qu'on aurait pu croire que ses yeux brillaient.\n\n\"L'essai clinique est un succès. Merci de vous être portés volontaires.\"\n\n\"Tenez, prenez ceci. C'est l'un de nos derniers médicaments.\""
+      ],
+      "failureDesc": [
+        "Le visage de {0} se tort de dégoût dès qu'il/elle boit une gorgée de la potion du chercheur.\n\nCa n'a pas l'air d'aller bien—encore pire, il/elle ne peut pas s'arrêter d'avoir des hauts-le-cœur.\n\n\"Et bien, l'essai clinique est un échec, j'imagine... Désolé.\"\n\n\"Tenez, partez avec ça, au moins. C'est l'un de nos derniers médicaments.\""
+      ]
+    },
+    {
+      "id": 97104701,
+      "title": "Acceptez et investiguez.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui acceptera ?",
+      "successDesc": [
+        "\"Ca, c'est le genre d'enthousiasme que j'apprécie... J'aime beaucoup votre attitude. Prenez ceci.\"\n\n\"Cela vous aidera dans vos recherches.\"\n\nAprès avoir donné l'équipement, les chercheurs se rapprochèrent des Pécheurs pour les examiner.\n\nDès qu'ils eurent fini, les Pécheurs étaient de nouveau en pleine forme."
+      ],
+      "failureDesc": [
+        "\"Essayez au moins de faire semblant d'être intéressés non ?\"\n\n\"Bon, on va au moins faire en sorte que tout le monde aille mieux. Ne soyez pas si frustrés.\"\n\nLes chercheurs se rapprochèrent des Pécheurs pour les examiner.\n\nDès qu'ils eurent fini, les Pécheurs étaient de nouveau en pleine forme."
+      ]
+    },
+    {
+      "id": 97104801,
+      "title": "Scrutez les alentours.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui fera la recherche ?",
+      "successDesc": [
+        "Remarquant quelque chose, {0} pointe un pan de mur du doigt.\n\nIl y a une petite fissure entre les innombrables the countless lettres griffonnées. Je rapproche doucement ma main et—\n\nAh-Ah ! Je me sens toucher une carte du bout des doigts. Quelqu'un a dû la cacher là.\n\nCa pourrait nous être utile à l'avenir."
+      ],
+      "failureDesc": [
+        "Remarquant quelque chose, {0} pointe un pan de mur du doigt.\n\nIl y a une petite fissure entre les innombrables the countless lettres griffonnées. Je rapproche doucement ma main et—\n\nJe me sens toucher une fiole de soin du bout des doigts, dont la surface est ensanglantée.\n\npeut être y'a-t-il eu une bataille pour cette fiole.\n\nUne aura mortelle de désespoir émane de ce lieu.\n\nNous avons utilisé la fiole et nous avons avancé, mais tout le monde arborait un regard sombre."
+      ]
+    }
+  ]
+}
