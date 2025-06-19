@@ -109,12 +109,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will identify the fabric?",
+      "behaveDesc": "Qui ira voir de quoi il s'agit ?",
       "successDesc": [
-        "Bandages, made to heal.\n\nBut he will bleed out as soon as these bandages are undone.\n\nTo maintain his shape... he must remain bound."
+        "Des bandages. Des outils pour se soigner.\n\nMais il recommencera à saigner dès que les bandages seront enlevés.\n\nPour maintenir sa forme... Il doit rester enchaîné."
       ],
       "failureDesc": [
-        "The wounds bound by the bandages rot away little by little; nothing indicates that they are healing.\n\nThey serve only to hide the hideous wounds, not to heal them."
+        "Peu à peu les blessures couvertes par les bandages commencent à pourrir; rien n'indiquent qu'elles guérissent.\n\nLeur seul but est de couvrir ces plaies béantes, pas de els soigner."
       ]
     },
     {
@@ -122,12 +122,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "Chains, made to imprison.\n\nHe will endlessly struggle against the chains to be free.\n\nTo regain his authority. To speak the words unuttered, bound by the chains."
+        "Des chaînes, faites pour emprisonner.\n\nDans un combat interminable il se battra pour se libérer des chaînes.\n\nPour retrouver son autorité. Pris par les chaînes, pour dire ce qui n'est pas dit."
       ],
       "failureDesc": [
-        "It thrashed once, then ceased its movements evermore.\n\nPerhaps it was because you defined the fabric as chains. Or, perhaps they really were bound by chains. No one will ever know."
+        "Il frappe une fois, puis ne bouge plus d'un pouce.\n\nPeut être est-ce parce que vous avez décrit le tissu comme des chaînes. Ou peut être qu'il est réellement restreint par ces chaînes. personne ne saura jamais."
       ]
     },
     {
@@ -135,12 +135,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "To shake hands... is to share the solitude.\n\nThe hand was neither warm nor supple, but you held onto it for a long, long time.\n\nHoping that this little gesture has filled its hands, its loneliness, even a little."
+        "Se serrer les mains... C'est se partager la solitude.\n\nla main n'est ni chaude ni douce, et pourtant vous la serrez longtemps... Très longtemps.\n\nEn espérant que ce geste comblera le vite de sa main, ne serait-ce qu'un tout petit peu."
       ],
       "failureDesc": [
-        "Its hands are already full of handshakes.\n\nYour mere offer of one handshake is of no import to this being."
+        "Ses mains ont déjà reçu bien assez de poignées de main.\n\nVotre offrande simpliste ne lui apportera rien."
       ]
     },
     {
@@ -148,12 +148,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "The true desire of its countless handshakes is a senseless one.\n\nSo even the hand that requests an endless stream of handshakes must learn to sometimes let it flow past it.\n\nBecause we must all one day return with nothing in our palms."
+        "La vraie raison derrière ces poignées de mains n'a aucun sens.\n\nDe ce fait, même la main réclamant une infinité de poignées de mains doit parfois se résigner.\n\nCar au moins une fois dans notre vie nous devons revenir les mains vides."
       ],
       "failureDesc": [
-        "Something left scratch marks on your hand.\n\nWounds left by loneliness.\n\nIt was born out of an ephemeral moment, yet the wound will last awhile."
+        "Quelque chose vient de laisser des marques dans vos mains.\n\nDes marques de solitude.\n\nBien que l'instant était éphémère, les marques resteront un certain temps."
       ]
     },
     {
@@ -161,12 +161,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "'Then please, light our path.'\n\n'When the lamp's light fades, when there is nothing but utter darkness...'\n\n'... we'll know we're at the right place.'\n\n'There are lights that can be seen only when there is no other light.'\n\n'There, you will see the color. The color of everything that was once abandoned, blended together.'"
+        "'Eclairez-vous le chemin, s'il vous plaît.'\n\n'Quand la lumière de la lampe s'épuise, quand il n'y a plus rien d'autre à voir que les ténèbres...'\n\n'... nous saurons que nous serons arrivés.'\n\n'Certaines lumières ne peuvent être vues quand il n'y a aucune autre.'\n\n'Voici, vous en verrez bien la couleur. La couleur de tout ce qui fut abandonné, de tout ce qui fut mélangé.'"
       ],
       "failureDesc": [
-        "'You still fear the dark, don't you?'\n\n'I know that you will miss the surface, forever out of your reach once this fluorescent lamp dies'\n\n'So do return once you're ready.'"
+        "'Vous avez toujours peur du noir n'est-ce pas ?'\n\n'Je sais que la surface vous manquera, à jamais hors de votre portée dès que cette lampe fluorescente sera morte'\n\n'Alors revenez une fois que vous serez près.'"
       ]
     },
     {
@@ -174,12 +174,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "'I remember. I've always wanted to run across a rolling field of grass under the warm sun.'\n\n'To swim across the vast ocean that I've seen only through pictures.'\n\n'That was my dream.'\n\n'My only dream.'\n\n'Now, if you ever recall a dream in which you wished to twinkle, even as a faint flicker...'"
+        "'je m'en souviens. J'ai toujours voulu courrir dans un champ vallonné de fleurs sous le soleil.'\n\n'Nager dans les vastes océans que je n'ai toujours que pu voir au travers d'images.'\n\n'C'était mon rêve.'\n\n'Mon seul rêve.'\n\n'Maintenant, si jamais vous vous rappelez d'un rêve dans lequel vous scintilliez, juste un peu...'"
       ],
       "failureDesc": [
-        "The fluorescent light still flickers weakly.\n\n'That's okay. Where we're going...'\n\n'We don't need any light.'"
+        "La lumière fluorescente continue de faiblement vaciller.\n\n'Ca va aller. Là où nous allons...'\n\n'Il n'y a pas besoin de lumière.'"
       ]
     },
     {
@@ -187,12 +187,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "'I see.'\n\n'If my master is gone from the painting, the memories... what shall I do?'\n\n'What if... one day... I start doubting that I ever had a master...'\n\nOnly the masterless painting remains in the hallway now."
+        "'je vois.'\n\n'Si mon mère s'est extirpé de la toile, les souvenirs... Que devrais-je faire ?'\n\n'Et si... Un jour... Je commencais à douter de l'existence de ce maître...'\n\nSeule la toile reste dans le couloir, sans maître dessus."
       ],
       "failureDesc": [
-        "'That cannot be.'\n\n'Look not at the time that is spent, and focus on the painting.'\n\n'The face of my master, who had to go through so much.'\n\nYou had to sit there and stare at the painting for a while."
+        "'Impossible.'\n\n'Regardez le temps et l'effort que j'ai passé à le peindre.'\n\n'Le visage de mon maître, qui a traversé tant de choses.'\n\nVous êtes restés planté là, à regarder la peinture pendant un certain temps."
       ]
     },
     {
@@ -200,12 +200,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "'Is not the face of my master so graceful? The eyes, so deep. The gaze, so noble.'\n\n'Thank you. I am starting to remember. The face of my master, reflected in your very own eyes.'"
+        "'Mon maître n'est-il pas magnifique ? Ses yeux si profonds, son regard si noble.'\n\n'Merci. Je commence à m'en rappeler. Le visage de mon maître, qui se reflète dans vos yeux à vous.'"
       ],
       "failureDesc": [
-        "'If you really can see my master's countenance... that's not the face you'd be making.'\n\n'And those unimpressed, lifeless eyes aren't the look one would wear upon seeing my master's face.'\n\nWe were quickly deemed unwelcome, and were chased out of the mansion."
+        "'Si vous pouvez vraiment voir la contenance de mon maître... Ce n'est pas la tête que vous feriez.'\n\n'Et ce regard si peu impressionnant, ces yeux sans sans vie ne reflètent pas ceux que mon maître pourrait arborer.'\n\nVous êtes tout de même remerciés, mais chassés du manoir."
       ]
     },
     {
@@ -213,12 +213,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "'Oh my...'\n\n{0} offered to clean the dust off the portrait.\nThe entity tried to back away from us, flustered...\n... but the Sinner reached out anyway to gently dust the portrait and clean it until its surface was spotless.\n\n'Now that you've cleaned the portrait, I am certain you can see it well.'\n'Thank you. My master... will be happy, too.'"
+        "'Oh...'\n\n{0} se propose pour enlever la poussière du portrait.\nL'entité vous tourne le regard, confus...\n... mais le pecheur enlève doucement la poussière jusqu'à ce qu'il n'en reste plus une miette.\n\n'Maintenant que le portait est propre, vous devez mieux le voir.'\n'Merci. Mon maître... oui, ça devrait lui plaire.'"
       ],
       "failureDesc": [
-        "'Oh my...'\n\n{0} marched toward the entity to dust off the portrait.\n\n'You will NOT so rudely and callously lay your hands on my master's portrait!'\n\nPerhaps we were too rash in our approach.\nThe entity shouted at us, saying that we were 'rude, rowdy guests', and kicked us out of the mansion."
+        "'Oh...'\n\n{0} s'avance pour enlever la poussière du portrait.\n\n'Vous ne METTREZ PAS les mains sur le portrait de mon maitre aussi froidement !'\n\nPeut-être avez-vous été trop directs dans votre approche.\nL'entité vous approche, vous disant que vous avez été des 'voyous, malpolis', et vous sort du manoir."
       ]
     },
     {
@@ -226,12 +226,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "You lower your head and pray. You hear the sound of trumpets. Yet you do not look up, and merely take in the sound. Because prayers are supposed to be like that."
+        "Vous baissez la tête et priez. Vous entendez le son des trompettes. Pourtant vous ne levez pas les yeux, et vous ne portez pas attention au bruit. Car c'est comme ça que l'on est supposé prier."
       ],
       "failureDesc": [
-        "Just because you're lowering your head and closing your eyes doesn't mean you're praying."
+        "Baisser la tête et fermer les yeux ne veut pas dire que vous priez pour autant."
       ]
     },
     {
@@ -239,12 +239,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "Its translucent arms and head disappear. From the void flows dark red blood. Its slow, leaden flow is not unlike someone's flow of tears."
+        "Ses bras et sa tête translucides disparaissent. Du vide coule du sang rouge foncé. Sa lente, lourde progression ne ressemble par à quelconque pleurs."
       ],
       "failureDesc": [
-        "A large crack appears on the statue. It begins to tremble ominously. There is no choice but to accept what is to come."
+        "Une grande fissre apparait sur la statue. Elle commence à trembler étrangement. Vous n'avez pas le choix que d'accepter ce qu'il va vous arriver."
       ]
     },
     {
@@ -254,10 +254,10 @@
       "prevDesc": "",
       "behaveDesc": "Who will take the challenge?",
       "successDesc": [
-        "Tell the truth.\n\nYou reply: the document says that the secret about the patient in room 409 must be kept.\n\n'I knew it...!'\n\n'But that patient... was...'\n\n'AAAAAAGGGGHHHHH!'"
+        "Vous dîtes la vérité.\n\nVous répondez que le document dit que le secret du patient de la chambre 409 doit rester secret.\n\n'Je le savais...!'\n\n'Mais ce patient... était...'\n\n'AAAAAAGGGGHHHHH!'"
       ],
       "failureDesc": [
-        "You try to tell the truth, but the figure does not believe you.\n\n'Don't lie to me. The patient in room 409 is...!'\n\nThe figure is unable to hold back its emotions; it begins thrashing about, destroying everything around it."
+        "Vous essayez de lui dire la vérité, mais la créature ne vous croit pas.\n\n'N'essayez pas de me mentir, le patient de la chambre 409 est...!'\n\nLa créature semble incapable de garder ses émotions; elle commence à mettre des coups partout, détruisant tout ce qui se trouve autour d'elle."
       ]
     },
     {
@@ -265,12 +265,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "'I knew it.'\n\n'They lied to me...'\n\n'Those pieces of shit lied to me!!!'"
+        "'Je le savais.'\n\n'Ils m'ont menti...'\n\n'Ces sales merdes m'ont menti!!!'"
       ],
       "failureDesc": [
-        "The figure crumples up the paper and stomps off to somewhere."
+        "La créature froisse le papier, le piétine et s'en va d'un pas lourd."
       ]
     },
     {
@@ -278,12 +278,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "You reach out with your hand and hold it in place before it swings back.\n\nThe bell dings faintly.\n\nA dull and feeble noise.\n\nThough it no longer bounces back with the same amount of force, it continues to sway back and forth."
+        "Vous tendez la main et la bloquez avant qu'elle ne reparte.\n\nLa cloche sonne faiblemment.\n\nUn faible son sans intérêt.\n\nBien qu'elle ait perdu de sa vitesse, elle continue de se balancer d'avant en arrière."
       ],
       "failureDesc": [
-        "You firmly held it in place. Perhaps too firmly; it will never lose its balance again.\n\nAnd it will never sway back and forth again.\n\nThe bell no longer tolls.\n\nAll that remains are gears and cogs."
+        "Vous la maintenez bien en place. Peut-être un peu trop fort; la cloche de perdra plus jamais son équilibre.\n\nEt elle ne se balancera plus jamais.\n\nLa cloche ne sonne plus.\n\nTout ce qu'il reste sont les engrenages et les rouages."
       ]
     },
     {
@@ -291,12 +291,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Qui s'avancera ?",
       "successDesc": [
-        "You push it further, to the point where the bell's almost touching the ground.\n\nBut it does not fall.\n\nInstead, it bounces back harder than it ever has, and it tolls loudly. Louder than any bell you've ever heard."
+        "Vous poussez le battant un peu plus, jusqu'à ce qu'elle touche presque le sol.\n\nMais elle ne tombe pas.\n\nA la place, elle revient plus vite que jamais, et sonne bruyamment. Plus fort que ce que vous n'avez jamais entendu."
       ],
       "failureDesc": [
-        "You pushed the bell too far. It tips over, falling to the ground with a heavy thump.\n\nIt can no longer be made to stand again.\n\nIts original role, once fallen, can never be recovered."
+        "Vous la poussez loin, beaucoup trop loin. Elle se renverse, se fracassant sur le sol dans un bruit sourd.\n\nElle ne pourra plus être remise debout.\n\nUne fois tombée, cette cloche ne remplira plus jamais jouer son rôle."
       ]
     }
   ]
