@@ -1,0 +1,211 @@
+{
+  "dataList": [
+    {
+      "id": 97100301,
+      "title": "Tango de la passion volaillère",
+      "eventDesc": "La poule tenant du matériel de couture implore de ses yeux de poulet.\nQuelqu'un doit s'en occuper. Ces yeux ne peuvent être ignorés.",
+      "behaveDesc": "Qui a les mains les plus habiles ?",
+      "successDesc": [
+        "{0} s'avance avec un peu d'appréhension.\n“Mmh…”\nPrennant l'aiguille et son fil, le Pêcheur s'assied derrière la poule.\nAvec des mains hésistantes mais minutieuses, Il commence à coudre.\n“Kieph.”\nHeureusement, la créature n'a pas l'air de ressentir l'aiguille - ni la douleur.\nCelà étant fait, la créature saute sur les genous de {0} pour remercier le Pêcheur.\n“Kieeh!”\n{0} en reste légèrement perplexe."
+      ],
+      "failureDesc": [
+        "{0} s'avance, confiant.\n“Voyons voir…”\nPrennant l'aiguille et son fil, le Pêcheur s'assied derrière la poule.\nLa confiance du Pêcheur ne s'alligne cependant pas avec la qualité de sa couteur, alors que la couture commence à partir de travers.\n“Kieerh!”\nAvant même que {0} ait pu finir son travail, la poule repousse le pêcheur.\n“…Pourquoi ne pas avoir essayé par toi-même avant ?”\nLa poule reprend le matériel de couture avant de se recoudre tout seul.\n{0} reste planté, confus."
+      ]
+    },
+    {
+      "id": 97101201,
+      "title": "Livre de comptes noir - Sauver les civils.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui s'avancera ?",
+      "successDesc": [
+        "\"Et merde...\"\n\n\"Qu'est-ce qu'il s'est passé ?! Je pensais que ça les ferait fuir !\"\n\nAprès un long combat éreintant, {0} et Aeng-du réussissent à repousser le partisan du clan Kurokumo.\n\n\"... Je vous suis reconnaissant. Je suis heureux d'avoir pu aider ces gens.\""
+      ],
+      "failureDesc": [
+        "\"Et merde...\"\n\n\"Qu'est-ce qu'il s'est passé ?! Je pensais que ça les ferait fuir !\"\n\nAprès un long combat éreintant, {0} et Aeng-du réussissent à repousser le partisan du clan Kurokumo. Cependant...\n\n\"... Ouch.\"\n\nPeut-être que Aeng-du ne s'était pas remise de ses blessures, ce qui lui a causé de prendre quelques coups durant la bataille.\n\n{0} semble aussi avoir été blessé en tentant de protéger Aeng-du.\n\n\"Toutes mes excuses...\"\n\nAeng-du gromelle. Il y a une certaine honte dans ses paroles."
+      ]
+    },
+    {
+      "id": 97101203,
+      "title": "Livre de comptes noir - Dites que vous faite partie de la Lignée de la Lame.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui s'avancera pour parler ?",
+      "successDesc": [
+        "\"La li-li-li... La lignée...\"\n\nLes civils s'agenouillent devant vous et s'inclinent de manière erratique. Leurs voix tremblent alors qu'ils s'excusent.\n\n\"Désolé, tellement désolés!\"\n\n\"Ayez pitié, je vous en prie ! Ne nous tuez pas !\"\n\nGêné, {0} essaie de leur faire comprendre que vous n'avez pas l'intention de leur faire du mal; mais ils refusent de l'écouter.\n\n\"Pr-prenez ceci...\"\n\nAvec tout le respect du monde, ils lèvent les mains. Dans ces dernières semblent se trouver un livre.\n\nEn regardant de plus près vous réalisez qu'ils vous donnent un livre de comptes arborant une couverture noire.\n\n\"Par pitié, pardonnez-nous! C'est la seule chose que nous avons...\"\n\nVous essayez tant bien que mal de les aider à se relever, mais la peur les cloue fermement au sol. Ils n'ont même pas levé la tête.\n\n... Vous n'avez pas le choix que de les laisser plantés là."
+      ],
+      "failureDesc": [
+        "\"Bonne blague, les gars~\"\n\nPeut être que {0} a begayé quand il/elle a parlé de faire partie de la Lignée de la Lame. Le sourcil du civil saute légèrement avant qu'il éclate de rire.\n\n\"Pourquoi seraient-ils ici, dans ces rues ?\"\n\n\"Et en plus de ça, pourquoi nous aideraient-ils là maintenant ? On les a royalement ignoré quand ils ont-\"\n\n\"Eh toi, surveille ce que tu dis!\"\n\n\"Ah!\"\n\nAprès une conversation sans contexte pour la comprendre, ils prennent peur dès lors qu'ils voient que vous êtes encore devant eux.\n\n\"Et bien... Merci quand même hein !\"\n\n\"Mais dîtes jamais quelque chose du style, même pour rire ! Vous savez pas ce qu'il peut vous arriver...\"\n\nEt ainsi, les civils quittent rapidement la scène.\n\nCa n'a fait que baisser votre moral, n'est-ce pas..."
+      ]
+    },
+    {
+      "id": 97101301,
+      "title": "Garde rouillée - Porter une lame c'est devoir taillader",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui leur partagera son opinion ?",
+      "successDesc": [
+        "\"Ecoutez-moi !\"\n\nLevant sa tasse pleine de liqueur, le plus bruyant s'esclaffe.\n\n\"Je ne dis pas que les autres méthodes sont moins bonnes! Je suis juste qu'un sabre, qui est une arme avec un tranchant, est faite pour découper des choses!\"\n\nD'un ton réticent, les deux autres hochent de la tête.\n\n\"Et bien oui, si on parle de la lame et seulement de la lame...\"\n\n\"J'imagine que décapiter n'est pas si différent que d'ouvrir un crâne.\"\n\n\"Ha ! Vous avez refait ma journée ! Tenez, prenez ça !\"\n\nL'homme qui prônait plus tot la supériorité des taillades vous met un bon coup dans le dos avant de mettre quelque chose dans la paume de votre main."
+      ],
+      "failureDesc": [
+        "\"Ecoutez-moi !\"\n\nLevant sa tasse pleine de liqueur, le plus bruyant s'esclaffe.\n\n\"Et soudainement...\"\n\nIl arrête de rire. Puis il lance à {0} un regard terrifiant.\n\n\"Comment peux-tu, en tant que pratiquant d'arts martiaux, te mentir à toi-même et refuser de me dire ce que tu penses vraiment ? N'as-tu aucune honte ?\"\n\n\"Calme-toi mec ! T'essaies encore de faire peur aux passants innoncents ?\"\n\nLes deux compagnons de boisson de l'homme ramènent {0} à leur table, le sourire jusqu'aux oreilles.\n\n\"Je suis sûr que penser à un seul bon coup perçant vous donner envie ! Si si, je comprends !\"\n\n\"Sentir le crâne se fendre, puis se briser sous le coup puissant d'un object contondant... on ne peut pas s'en passer, hein ?\"\n\nAinsi le duo encourage {0} et remplissent sa tasse avec de l'alcool."
+      ]
+    },
+    {
+      "id": 97101401,
+      "title": "Choix de la lame Fracturée - Dégainer l'épée",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui portera l'épée ?",
+      "successDesc": [
+        "{0} porte l'épée.\n\n\"...!\"\n\nAprès avoir repris son souffle un instant, {0} sort la lame de son fourreau et tranche la chose devant vous en un clin d'œil.\n\nLa chose glousse avant de disparaître, semblant trouver la situation amusante...\n\nEt laissant derrière elle des fragments d'une lame."
+      ],
+      "failureDesc": [
+        "{0} porte l'épée.\n\n\"...!\"\n\nAprès avoir repris son souffle un instant, {0} sor—\n\n—Oh. Le Pêcheur n'arrive pas à sortir la lame du fourreau, faisant tomber à la place le tout.\n\n... Il tenait probablement la lame à l'envers, s'ouvrant la paume de la main.\n\nLa chose en a profité pour disparaître pendant que vous étiez en train d'arrêter le saignement de la main de {0}."
+      ]
+    },
+    {
+      "id": 97101402,
+      "title": "Choix de la lame Brisée - Laisser l'épée pendre sur le coté",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui portera l'épée ?",
+      "successDesc": [
+        "{0} porte l'épée.\n\n\"......\"\n\nSans effort particulier {0} dégaine la lame, jette le fourreau, et l'abaisse sur son flanc, la pointe tournée vers le sol.\n\nLa chose glousse avant de disparaître, semblant trouver la situation amusante...\n\nEt lassant derrère elle une lame brisée."
+      ],
+      "failureDesc": [
+        "{0} porte l'épée.\n\n\"......\"\n\nSans effort particulier {0} dégaine la la—\n\n—Oh. Le Pêcheur n'arrive pas à sortir la lame du fourreau, faisant tomber à la place le tout.\n\n... Il tenait probablement la lame à l'envers, s'ouvrant la paume de la main.\n\nLa chose en a profité pour disparaître pendant que vous étiez en train d'arrêter le saignement de la main de {0}."
+      ]
+    },
+    {
+      "id": 97101601,
+      "title": "Choix du gland de soie rouge - Petites bricoles",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui ira leur parler ?",
+      "successDesc": [
+        "\"HA !\"\n\nL'homme à l'épée ricaine.\n\n\"Vous osez tout de même me répondre avec tant de sagesse. Ces pensées n'ont pas vraiment d'importance ici dans la Ville.\"\n\nAvec un peu plus d'enthousiasme il continue de rire, puis arrache un gland de soie de son arme pour vous le donner.\n\n\"J'aime bien votre réponse. Si jamais vous rentrez en conflit avec la Lignée de la Lame, montrez-leur ce gland de soie.\"\n\n\"Je suis sûr que ça pourrait vous être utile.\"\n\nEt ainsi ils partent en vous faisant signe de la main."
+      ],
+      "failureDesc": [
+        "\"C'est bien vrai ça.\"\n\nLes deux hochent de la tête.\n\n\"Mais je ne vous pense ni assez sage ni assez capable pour prononcer ces mots de vous-même.\"\n\nLes deux hommes sourient étrangement avant de se retourner et de partir.\n\nLaissé à la l'abandon, {0} regarde par terre, triste."
+      ]
+    },
+    {
+      "id": 97101701,
+      "title": "Choix du chapeau en bambou en lambeaux - Ce n'est pas ce qui compte",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui prendra la parole ?",
+      "successDesc": [
+        "Les lettres bleues disparaissent petit à petit, laissant un autre mot apparaître à la place.\n\n'Joie.'\n\nLe mot reste là pendant un moment, avant de se transformer et de tomber au sol.\n\nIl devient un vieux chapeau de bambou abîmé par le temps."
+      ],
+      "failureDesc": [
+        "Les lettres bleues disparaissent petit à petit, laissant un autre mot apparaître à la place.\n\n'Colère.'\n\nLe mot reste un court instant avant de brûler et de s'évaporer.\n\n... Peut être n'a-t-il pas aimé votre réponse ?"
+      ]
+    },
+    {
+      "id": 97101702,
+      "title": "Vieille cape Dopo - Le Bien est le Bien",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui prendra la parole ?",
+      "successDesc": [
+        "Les lettres bleues disparaissent petit à petit, laissant un autre mot apparaître à la place.\n\n'Plaisir.'\n\nLe mot reste là pendant un moment, avant de se transformer et de tomber au sol.\n\nIl devient une vieille cape Dopo abîmée par le temps."
+      ],
+      "failureDesc": [
+        "Les lettres bleues disparaissent petit à petit, laissant un autre mot apparaître à la place.\n\n'Tristesse.'\n\nLe mot reste un court instant avant de brûler et de s'évaporer.\n\n... Peut être n'a-t-il pas aimé votre réponse ?"
+      ]
+    },
+    {
+      "id": 97102101,
+      "title": "Balayer rapidement l'usine du regard.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui apportera son aide ?",
+      "successDesc": [
+        "Après quelques regards et un peu de réflexion, {0} remarque que la machine de l'usine tourne très rapidement.\n\n{0} dit que deux heures de sommeil pourrait intuilement surcharger les employés...\n\net que ça pourrait avoir un mauvais impact sur la production globale de l'usine.\n\n\"Tu es bon pour repérer les problèmes.\"\n\n\"Vous entendez ça ? Arrêtez de vous inventer des excuses et retournez au travail !\"\n\nLe patron de l'usine lance un regard furieux à un emploté qui était en train de lentement descendre les escaliers, puis il vous donne quelque chose.\n\n\"J'allais le donner à un employé pour ses bons résultats, mais ce n'est plus le cas. Prenez-le à sa place.\""
+      ],
+      "failureDesc": [
+        "{0} ne comprend pas que personne -y compris l'employé lui-même- n'a l'air d'avoir remarqué que l'employé dormait depuis deux heures. \n\n\"Eh beh. Ca donne une bonne image de l'usine\"\n\n\"T'es viré. Dégage.\"\n\nVous avez l'impression que quelque chose cloche, mais c'est déjà trop tard.\n\nL'employé, maintenant réveillé, tombe à genoux, ses yeux commençant à larmoyer. Cependant le patron faisant mine de ne pas le remarquer, se retourne et quitte la pièce.\n\nAinsi vous êtes laissés seuls aux côtés des longs et insoutenables gémissements de l'employé."
+      ]
+    },
+    {
+      "id": 97102102,
+      "title": "Regarder de plus près le patron de l'usine et son employé.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui apportera son aide ?",
+      "successDesc": [
+        "{0} marche du patron vers l'employé plusieurs fois avant de réaliser que la durée de leur journée est complètement différente de la sienne.\n\nPour le patron qui vit sur des journées de huit heures, il lui semble que l'employé a belle et bien dormi deux heures d'affilée.\n\nCependant pour l'employé dont les journées ne tiennent qu'en six heures, sa sieste n'a peut être duré que neuf minutes. {0} donne l'informations au patron.\n\n\"Hm. T'as combien d'heures de travail par jour?\"\n\n\"C...i...n...q... H...e...u...r...e...s...\"\n\n\"Hm, d'accord. Bien. Je vais laisser passer cet... \"incident\" pour cette fois. Mais que je ne t'y reprenne pas.\"\n\nLe patron se retourne et quitte la pièce.\n\nL'employé vous salue très lentement avant de poser quelque chose dans vos mains pour vous remercier."
+      ],
+      "failureDesc": [
+        "{0} essaie de faire comprendre au patron que ses jours sont plus longs que ceux de l'employé.\n\n\"Et qu'est-ce que j'en ai à faire?\"\n\n\"Neuf minutes, deux heures, ça en revient au même. Tu as tout de même décidé de dormir durant tes heures de travail. T'es viré.\"\n\nVous avez l'impression que quelque chose cloche, mais c'est déjà trop tard.\n\nL'employé, maintenant réveillé, tombe à genoux, ses yeux commençant à larmoyer. Cependant le patron faisant mine de ne pas le remarquer, se retourne et quitte la pièce.\n\nAinsi vous êtes laissés seuls aux côtés des longs et insoutenables gémissements de l'employé."
+      ]
+    },
+    {
+      "id": 97102201,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui prendra la parole ?",
+      "successDesc": [
+        "{0} clame haut et fort qu'il y a une erreur dans les calculs.\n\nLes autres Pêcheurs renchérissent, disant qu'il vaudrait vérifier la note. L'un d'entre eux fait justement remarquer qu'il y a un Bureau des Collections non loin d'ici.\n\nLes murmurs de la foule s'accentuent sous l'agitation, et finalement le Collecteur de Temps cède.\n\n\"Vous n'avez pas l'air de porter de montre.\"\n\n\"je resterais en-dehors de ce genre d'histoires si j'étais vous.\"\n\nVisiblement contrarié par la foule, le Collecteur de Temps gromèle quelque chose et part, non sans accrocher quelque chose sur les vêtements du Pêcheur."
+      ],
+      "failureDesc": [
+        "{0} clame haut et fort qu'il y a une erreur dans les calculs.\n\nLes autres Pêcheurs renchérissent, disant qu'il vaudrait vérifier la note. L'un d'entre eux fait justement remarquer qu'il y a un Bureau des Collections non loin d'ici.\n\nLes murmurs de la foule s'accentuent sous l'agitation.\n\n\"Vous n'avez pas l'air de porter de montre.\"\n\n\"Mais en plus, vous troublez également la tranquillité de nos citoyens. Je vais devoir collecter vos impôts.\""
+      ]
+    },
+    {
+      "id": 97102301,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui s'avancera ?",
+      "successDesc": [
+        "Après avoir rattrapé de justesse le jeune, {0} demande la raison pour laquelle il est aussi pressé.\n\nLe jeune homme regarde sa montre, visiblement impatient que {0} termine de poser sa question. Il continue de faire des aller-retour entre deux endroits.\n\n\"Je dois travailler plus vite pour avoir plus de temps !\"\n\n\"Ce propritétaire d'usine, là ? Je suis sûr qu'il a dix heures de plus dans sa vie que moi !\"\n\n{0} se baisse et lui demande: \"à quoi vont te servir ces heures ?\"\n\n\"Et bien avec ça, je pourrais utiliser de mon temps pour travailler encore plus longtemps ! Oh, je suis en retard ! je dois filer ! Salut !\"\n\nLe jeune homme se presse de courir dans un building.\n\nVous n'allez certainement jamais savoir ce qu'il va faire avec autant de temps.\n\nMais il semblerait que quelque chose soit tombé de sa poche...\n\nIl est bien trop loin pour que vous puissiez lui rendre."
+      ],
+      "failureDesc": [
+        "Vous n'avez pas pu rattraper le jeune.\n\nTant pis."
+      ]
+    },
+    {
+      "id": 97102302,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui s'avancera ?",
+      "successDesc": [
+        "Vous demandez au vieil homme: \"Comment pouvez-vous sourire tout en sachant qu'il vous reste peu de temps?\"\n\nLe vieil homme vous sourit légèrement avant d'écrire quelque chose sur un papier.\n\n'La vie n'est pas une question de savoir combien de temps il nous reste.'\n\n'Ce qui compte vraiment c'est d'utiliser ce temps à bon escient.'\n\n'Comment voulez-vous que je ne sois pas souriant, sachant que j'ai du temps libre dans ce monde si pressé ?'\n\nLe vieil homme se retourne et marche.\n\nIl a laissé quelque chose derrière lui.\n\nVous ramassez l'objet et levez la tête de nouveau pour lui rendre... Mais il est déjà parti."
+      ],
+      "failureDesc": [
+        "Vous demandez au vieil homme: \"Comment pouvez-vous sourire tout en sachant qu'il vous reste peu de temps?\"\n\nLe vieil homme vous sourit légèrement avant d'écrire quelque chose sur un papier.\n\n'Je n'a pas le temps pour ces... absurdités'.\n\nVous tracez votre chemin, laissant le vieil homme derrière."
+      ]
+    },
+    {
+      "id": 97102401,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui rendra le discours ?",
+      "successDesc": [
+        "Tous ensemble !\n\nLes Yurodivy sortent quelques bouteilles d'alcool volées des riches et en versent le contenu sur une pyramide de gobelets, pendant qu'ils crient leur chant."
+      ],
+      "failureDesc": [
+        "La performance était assez étrange. Tout le monde se retourne soudainement dans votre direction.\n\nVous formez de bien piètres excuses, laissant croire que vous êtes attendus ailleurs avant de rapidement partir de la cachette."
+      ]
+    },
+    {
+      "id": 97102501,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Qui prendra la parole ?",
+      "successDesc": [
+        "Même en donnant tout ce que vous avez, rien n'y fait.\n\nIls ne peuvent pas bouger, et vous ne pouvez pas les toucher.\n\nVous trouvez cependant un reçu étrange sous le pied de la victime.\n\nC'est peut être un indice."
+      ],
+      "failureDesc": [
+        "Même en donnant tout ce que vous avez, rien n'y fait.\n\nIls ne peuvent pas bouger, et vous ne pouvez pas les toucher."
+      ]
+    }
+  ]
+}
